@@ -112,6 +112,7 @@ body{
 }
 @media(max-width:795px){
     .container__clock{
+        border: solid 5px #0a99c9 ;
         font-size: 35px;
         gap: 5px;
     }
@@ -130,6 +131,7 @@ body{
 }
 @media(max-width:640px){
     .container__clock{
+        border: solid 3px #0a99c9 ;
         font-size: 25px;
     }
     .clock__date span{
